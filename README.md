@@ -1,105 +1,139 @@
 
 
-# [Machine Learning Master Course Online](https://online.codingblocks.com/courses/machine-learning-course-online)
-This online Machine Learning course by Coding Blocks is one of its kind. The course comprising of over 200 recorded tutorials and 15 projects for teaching, boasts of an all-exhaustive and highly comprehensive curriculum. The Machine Learning online course starts with the essentials of Python, gradually moving towards to concepts of advanced algorithms and finally into the cores of Machine Learning. With our key focus being the live projects, we dive deeper into the fundamentals of Regression Techniques and Neural Networks enabling the students to work out optimizing solutions to the real-world problems. It is just a matter of weeks before the students actually begin building intelligent systems, working on AI algorithms and data crunching. As a part of these online Machine Learning classes, a detailed overview of the programming fundamentals and Python Basics would be covered with the students so as to make them grasp the concepts of Machine Learning quickly and effortlessly. The course is taught by [*Prateek Narang*](http://prateeknarang.com) who is famous for his interactive teaching methods, and is doing an MS in Deep Learning from IIT Delhi.
- 
-**Course Contents**
--------------------
-The course is broadly divided in 7 categories, each of the topic is present as a section in the course.
+Machine Learning Master Course – Coding Blocks
+📌 Course Overview
 
-*Part 1. Introduction to Machine Learning*
-1. Python Recap
-2. Intermediate Python
-3. Machine Learning Introduction
-4. Data Generation & Visualisation
-5. Linear Algebra in Python
+I completed the Machine Learning Master Course by Coding Blocks, a comprehensive program covering Python fundamentals, core Machine Learning algorithms, and advanced Deep Learning concepts.
+The course focused on building real-world projects and developing strong foundations in supervised learning, unsupervised learning, neural networks, computer vision, NLP, and reinforcement learning.
 
-*Part 2. Supervised Learning Algorithms*
-- Linear Regression
-- Locally Weighted Regression
-- Multivariate Regression
-- Logistic Regression
-- K-Nearest Neighbours
-- Naive Bayes
-- Support Vector Machines
-- Decision Trees & Random Forests
+The training emphasized hands-on implementation of algorithms from scratch along with the use of popular ML and Deep Learning libraries.
 
-*Part 3. Unsupervised Learning*
-- K-Means
-- Principal Component Analysis
-- Autoencoders(Deep Learning)
-- Generative Adversial Networks(Deep Learning)
+Instructor: Prateek Narang (MS in Deep Learning, IIT Delhi)
 
-*Part 4. Deep Learning*
-- Deep Learning Fundamentals
-- Keras Framework, Tensorflow Basics
-- Neural Networks Basics
-- Building Text & Image Pipelines
-- Multilayer Perceptrons
-- Optimizers, Loss Functions
+📚 Key Topics Covered
+1. Foundations
 
-*Part 5. Deep Learning in Computer Vision*
-- Convolution Neural Networks
-- Image Classification Pipeline
-- Alexnet, VGG, Resnet, Inception
-- Transfer Learning & Fine Tuning
+Python (Basics & Intermediate)
 
-*Part 6. Deep Learning Natural Language Processing*
-- Sequence Models
-- Recurrent Neural Networks
-- LSTM Based Models
-- Transfer Learning
-- Natural Lang Processing
-- Word Embeddings
-- Langauge Models
+Data Generation & Visualization
 
-*Part 7. Reinforcement Learning*
-- Basics of Reinforcement Learning
-- Q Learning
-- Building AI for Games
+Linear Algebra using Python
 
-### Libraries, Frameworks
-- Most of the course codes are build from scratch but we will also teach you how to work with
-the following libraries.
-1. Pandas (Data Handling)
-2. Matplotlib (Data Visualisation)
-3. Numpy (Maths)
-4. Keras (Deep learning)
-5. Tensorflow(Introduction)
-6. Sci-kit Learn(ML Algorithms)
-6. OpenAI Gym (Reinforcement Learning)
+Introduction to Machine Learning
 
-### Pre-requisites
-- Familiar with writing Code in any programming language, Python preferred but not mandatory
-- Practical Knowledge of Data Structures, OOP's Concepts
-- Familiar with VCS like Git/Github
+2. Supervised Learning
 
+Linear & Multivariate Regression
 
-### 20 Mini Projects in course!
--------------------------------
-1. Hardwork Pays Off (Regression Prediction)
-2. Air Quality Prediction (Multivariate Regression)
-3. Separating Chemicals (Logistic Regression)
-4. Face Recognition (OpenCV, K-Nearest Neighbours)
-5. Handwritten Digits Classifier
-6. Naive Bayes Mushroom Classification
-7. Movie Review Prediction (Naive Bayes, LSTM etc)
-8. Image Dominant Color Extraction (K-Means)
-9. Image Classification using SVM
-10. Titanic Survivor Prediction using Decision Trees
-11. Diabetic Patients Classification
-12. Non-Linear Data Separation using MLP
-13. Pokemon Classification using CNN, Transfer Learning
-14. Sentiment Analysis using MLP, LSTM
-15. Text/Lyrics Generation using Markov Chains
-16. Emoji Prediction using Transfer Learning & LSTM
-17. Odd One Out (Word2Vec)
-18. Bollywood Word Analgoies (Word Embeddings)
-19. Generating Cartoon Avatars using GAN's (Generative Adversial Networks)
-20. Reinforcement Learning based Cartpole Game Player
+Logistic Regression
 
+K-Nearest Neighbors (KNN)
 
-Final Project
-----------------
-**Image Captioning**
-Generating Captions for images using CNN & LSTM on Flickr8K dataset.
+Naive Bayes
+
+Support Vector Machines (SVM)
+
+Decision Trees & Random Forest
+
+3. Unsupervised Learning
+
+K-Means Clustering
+
+Principal Component Analysis (PCA)
+
+Autoencoders
+
+Generative Adversarial Networks (GANs)
+
+4. Deep Learning
+
+Neural Networks & Multilayer Perceptrons
+
+Optimizers & Loss Functions
+
+TensorFlow & Keras
+
+Text and Image Pipelines
+
+5. Computer Vision
+
+Convolutional Neural Networks (CNNs)
+
+Image Classification Pipelines
+
+Transfer Learning (AlexNet, VGG, ResNet, Inception)
+
+6. Natural Language Processing (NLP)
+
+RNN & LSTM Models
+
+Word Embeddings
+
+Language Models
+
+Sentiment Analysis
+
+Text Generation
+
+7. Reinforcement Learning
+
+Q-Learning
+
+Game AI using OpenAI Gym
+
+🛠️ Libraries & Tools Used
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Scikit-learn
+
+TensorFlow
+
+Keras
+
+OpenAI Gym
+
+OpenCV
+
+🧪 Mini Projects (Selected)
+
+Air Quality Prediction (Regression)
+
+Face Recognition (OpenCV + KNN)
+
+Handwritten Digit Classification
+
+Movie Review Sentiment Analysis
+
+Image Classification using CNN & SVM
+
+Titanic Survival Prediction
+
+Emoji Prediction using LSTM
+
+GAN-based Cartoon Avatar Generation
+
+Reinforcement Learning CartPole Agent
+
+(Completed 20+ mini projects in total)
+
+🎯 Final Project
+
+Image Caption Generator (CNN + LSTM)
+Built an image captioning system using the Flickr8K dataset that generates meaningful textual descriptions for images by combining Convolutional Neural Networks and LSTM-based sequence models.
+
+📈 Learning Outcomes
+
+Strong understanding of Machine Learning & Deep Learning algorithms
+
+Practical experience with real-world datasets
+
+Model building using Python and popular ML frameworks
+
+End-to-end project development in AI applications
